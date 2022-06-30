@@ -1,0 +1,2 @@
+link markdown sintaxe básica
+https://www.markdownguide.org/basic-syntax/
